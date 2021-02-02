@@ -1,2 +1,3 @@
-# GoogleMobilityWork
-Repo analyzing and visualizing Google mobility data
+# GoogleMobilityWork  
+
+This is a repo intended to analyze and visualize Google Mobility Data
